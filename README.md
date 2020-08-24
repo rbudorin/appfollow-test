@@ -8,14 +8,17 @@
 * [Техническое задание](#техническое-задание)
   * [Модель тестировани](#модель-тестирования)
     * [Алгоритм](#алгоритм)
+      * [Web](#web)
       * [Gmail](#gmail)
       * [LinkedIn](#linkedin)
       * [Slack](#slack)
     * [Данные](#данные)
+      * [Web](#web)
       * [Gmail](#gmail)
       * [LinkedIn](#linkedin)
       * [Slack](#slack)
     * [Сценарии](#сценарии)
+      * [Web](#web)
       * [Gmail](#gmail)
       * [LinkedIn](#linkedin)
       * [Slack](#slack)
@@ -30,14 +33,17 @@
 # Техническое задание
 ## Модель тестировани
 ### Алгоритм
+#### Web
 #### Gmail
 #### LinkedIn
 #### Slack
 ### Данные
+#### Web
 #### Gmail
 #### LinkedIn
 #### Slack
 ### Сценарии
+#### Web
 #### Gmail
 #### LinkedIn
 #### Slack
